@@ -4,7 +4,6 @@ Currently diving into systems programming, low-level development, and embedded s
 
 ## ⚙️ Tech
 - C
-- Rust
 - Linux
 - Bash
 
@@ -17,4 +16,4 @@ Currently diving into systems programming, low-level development, and embedded s
 - Performance-Oriented Software
 
 ## 🚀 Currently
-Building low-level projects in C and exploring Rust in my spare time.
+Building low-level projects in C.
